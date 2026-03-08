@@ -1,0 +1,34 @@
+# Dependencies
+node_modules/
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+dist/
+build/
+*.egg
+
+# Environment
+.env
+.venv
+venv/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# NexaCode data
+.nexacode/
+*.db
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Temp
+/tmp/
+*.bak
+*.backup
+*.tar.gz
